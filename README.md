@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bhuvanesh Arun C T 👋</h1>
 
 <p align="center">
-  <b>Applied Dashboard & Tools Developer</b><br/>
+  <b>Robotics & Automation Enthusiat</b><br/>
   Robotics · Embedded Systems · Industrial Automation · IIoT
 </p>
 
