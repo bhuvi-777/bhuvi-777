@@ -30,6 +30,8 @@ My interests span autonomous mobile robots, embedded electronics, industrial dig
 - 🧭 **Currently exploring:** robotics, real-time embedded systems, signal processing, industrial communication, and intelligent automation
 - 🚀 **Open to roles, internships, and research collaborations** in robotics, embedded systems, and industrial automation
 
+- 📦 Author of [**GridLens**](https://pypi.org/project/gridlens/) (`pip install gridlens`), an open-source Python toolkit for power quality analysis and standards compliance (EN 50160 / IEEE 519)
+  
 **Open to:** Graduate Engineer roles, internships, technical collaborations, and research opportunities in Robotics, Embedded Systems, and Industrial Automation.
 
 ---
@@ -88,6 +90,7 @@ My interests span autonomous mobile robots, embedded electronics, industrial dig
 
 | Project | Description |
 |---|---|
+| [**GridLens**](https://github.com/bhuvi-777/gridlens) · [PyPI](https://pypi.org/project/gridlens/) | Open-source Python library and CLI (`pip install gridlens`) for vendor-neutral power quality analysis, COMTRADE/CSV waveform loading, EN 50160 & IEEE 519 compliance checks, and HTML report generation. Python, NumPy, SciPy, Pandas, Matplotlib. |
 | [**Power System Load Flow Simulator**](https://github.com/bhuvi-777/Power_system_loadflow_simulator) | Interactive web app with drag-and-drop network modelling, Y-bus calculation, a Gauss-Seidel solver, convergence plots, and PDF report export. React, React Flow, Node.js, Zustand. |
 | [**Highlight Brain**](https://github.com/bhuvi-777/highlight-brain) | Chrome extension: highlight any text on a page to explain, translate, or break down code. |
 | [**Modern Signal Filter Dashboard**](https://github.com/bhuvi-777/modern-signal-filter-dashboard) | Python dashboard for exploring and applying modern signal filters, with frequency response analysis and magnitude/phase visualization. |
